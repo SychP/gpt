@@ -1,13 +1,4 @@
-{
-  "podcast_details": {
-    "podcast_title": "This Week in Machine Learning & Artificial Intelligence",
-    "episode_title": "The Future of AI",
-    "episode_image": "https://podcasts.apple.com/us/podcast/this-week-in-machine-learning-artificial-intelligence/id1493139183?i=1000548221006",
-    "episode_transcript": "
-
-    <h1>The Future of AI</h1>
-
-    <p>In this episode, we discuss the future of AI. We talk about the potential benefits of AI, as well as the potential risks. We also discuss the ethical implications of AI.</p>
+{"podcast_details": {"podcast_title": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)", "episode_title": "Explainable AI for Biology and Medicine with Su-In Lee - #642", "episode_image": "https://megaphone.imgix.net/podcasts/35230150-ee98-11eb-ad1a-b38cbabcd053/image/TWIML_AI_Podcast_Official_Cover_Art_1400px.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress", "episode_transcript": " In this episode, we discuss the future of AI. We talk about the potential benefits of AI, as well as the potential risks. We also discuss the ethical implications of AI.</p>
 
     <p>We begin by discussing the potential benefits of AI. AI has the potential to automate many tasks that are currently done by humans. This could lead to increased productivity and efficiency. AI also has the potential to improve our healthcare, education, and transportation systems.</p>
 
@@ -19,4 +10,4 @@
 
     </p>
   }
-}
+}"
